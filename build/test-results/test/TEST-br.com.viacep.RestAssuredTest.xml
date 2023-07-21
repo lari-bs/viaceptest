@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.viacep.RestAssuredTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-07-20T20:00:07" hostname="ni-tqi001913" time="21.497">
+  <properties/>
+  <testcase name="testeConsultarCEPInvalido()" classname="br.com.viacep.RestAssuredTest" time="18.074"/>
+  <testcase name="testeConsultarCEPValido()" classname="br.com.viacep.RestAssuredTest" time="2.954"/>
+  <testcase name="testeConsultarCEPIncorreto()" classname="br.com.viacep.RestAssuredTest" time="0.469"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
